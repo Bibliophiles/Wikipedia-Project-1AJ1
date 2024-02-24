@@ -13,7 +13,7 @@ MyWiki is a simple project developed by a group of friends that replicates the l
 To explore MyWiki:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Bibliophiles/mywiki.git
+   git clone https://github.com/Bibliophiles/Wikipedia-Project-1AJ1.git
 
 Open the entry.html file in a web browser to start browsing.
 Feel free to contribute to the project by:
@@ -42,7 +42,7 @@ MyWiki is a simple project developed by a group of friends that replicates the l
 To explore MyWiki:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mywiki.git
+   git clone https://github.com/Bibliophiles773/Wikipedia-Project-1AJ1.git
 Open the index.html file in a web browser to start browsing.
 Feel free to contribute to the project by:
 
