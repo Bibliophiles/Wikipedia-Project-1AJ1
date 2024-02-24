@@ -15,7 +15,7 @@ To explore MyWiki:
    ```bash
    git clone https://github.com/Bibliophiles/mywiki.git
 
- Open the entry.html file in a web browser to start browsing.
+Open the entry.html file in a web browser to start browsing.
 Feel free to contribute to the project by:
 
 Providing feedback on the design and user experience
@@ -50,7 +50,7 @@ Providing feedback on the design and user experience
 Reporting any bugs or issues you encounter
 Making suggestions for improvements
 
-Contributors
+## Contributors
 1. Anane Amematekpor Dennis
 2. Stephen Gaeflanu Adika
 3. ⁠Othniel Nii Dodou Aryee
@@ -60,7 +60,7 @@ Contributors
 7. Frimpong Rahimatu
 8. Israel Kur Abraham Ayong
 
-License
+## License
 This project is licensed under the MIT License.
 
 You can further customize this template to include more details about specific features, the development process, or anything else relevant to your project.
