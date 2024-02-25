@@ -13,35 +13,6 @@ MyWiki is a simple project developed by a group of friends that replicates the l
 To explore MyWiki:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Bibliophiles/Wikipedia-Project-1AJ1.git
-
-Open the entry.html file in a web browser to start browsing.
-Feel free to contribute to the project by:
-
-Providing feedback on the design and user experience
-Reporting any bugs or issues you encounter
-Making suggestions for improvements
-
-
-Got it! Here's a revised README.md template tailored to your project using only HTML and CSS:
-
-markdown
-Copy code
-# MyWiki - A Wikipedia-like Project
-
-## Overview
-MyWiki is a simple project developed by a group of friends that replicates the look and feel of Wikipedia using only HTML and CSS. It's designed to showcase our skills in front-end development and web design.
-
-## Features
-- Responsive design for various screen sizes
-- Navigation menu for easy browsing
-- Article pages with structured layout
-- Stylish and modern user interface
-
-## Usage
-To explore MyWiki:
-1. Clone the repository:
-   ```bash
    git clone https://github.com/Bibliophiles773/Wikipedia-Project-1AJ1.git
 Open the index.html file in a web browser to start browsing.
 Feel free to contribute to the project by:
